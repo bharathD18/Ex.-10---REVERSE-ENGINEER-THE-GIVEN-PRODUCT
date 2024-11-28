@@ -39,8 +39,8 @@ Door Handle 3D Modeling
 ![Screenshot 2024-11-28 181833](https://github.com/user-attachments/assets/83c2f8c3-d07c-4382-b53e-de37f7d8b457)
 
 
-### Name:
-### Register Number:
+### Name: BHARATH D
+### Register Number: 24900875
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
